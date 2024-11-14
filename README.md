@@ -1,5 +1,5 @@
 # testathiaempresasetor
-Olá, esse projeto foi feito para o processo seletivo do Grupo Athia, foi solicitado para o banco de dados o MySQL Workbench e o Seenode, para a API e para o APP foram usados a linguagem javascript, por meio do vscode. Na branch mestre se encontra a API e na branch app está o APP.
+Olá, esse projeto foi feito para o processo seletivo do Grupo Athia, foi solicitado para o banco de dados o MySQL Workbench e o Seenode, para a API e para o APP foram usados a linguagem javascript, por meio do vscode. Na branch master se encontra a API e na branch app estão as telas da aplicação.
 
 ## Segue modelo do banco de dados:
 BANCO DE DADOS testeathiaempresasetor
@@ -27,7 +27,7 @@ CREATE TABLE "setor" (
   PRIMARY KEY ("id")
 );
 
-## PARA RODAR O API
+## PARA RODAR O API - BRANCH MASTER
 
 1. Clone este repositório: https://github.com/EloisaSalomao/testathiaempresasetor.git
 
@@ -37,7 +37,7 @@ CREATE TABLE "setor" (
 
 4. Para rodar o projeto localmente: npm run start-dev
 
-## PARA RODAR O APP
+## PARA RODAR O APP - BRANCH APP
 
 1. Clone este repositório: https://github.com/EloisaSalomao/testathiaempresasetor.git
 
